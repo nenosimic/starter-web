@@ -11,3 +11,8 @@ Napravio sam ovu
 promjena koju cu komitat
 
 promjena bez addinga
+____________________________________
+
+dodano bez komita
+________
+samo promjena
