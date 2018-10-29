@@ -1,4 +1,4 @@
-ucim merganje
+Ucim brenching
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
